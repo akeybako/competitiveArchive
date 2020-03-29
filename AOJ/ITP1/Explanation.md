@@ -13,7 +13,7 @@
 
 
 ## ITP1_1_D
-- http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_C
+- http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_
   1. 入力された数（S）をhmsに単位変換する
     1. h: Sを3600で割った商（切り捨て）
     2. m: Sを3600で割った余りを60で割った商（切り捨て）
