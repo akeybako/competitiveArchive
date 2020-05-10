@@ -7,8 +7,8 @@ int main(){
 	for(int i = 1; true; i++){
 		scanf("%d",&x);
 		if(x == 0) {
-            break;
-        }
+        		break;
+	        }
 		printf("Case %d: %d\n", i, x);
 	}
 }
